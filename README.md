@@ -19,3 +19,10 @@ O aplicativo está atualmente disponível para: <br>
 <b>Windows</b><br>
 <b>Linux</b><br>
 <br>
+
+<b>IMPORTANTE</b><br>
+Este aplicativo cria uma conexão encriptada com VPN
+e altera os servidores de DNS para os servidores da Cloudflare.
+Para alterar apenas o seu DNS padrão para o DNS da Cloudflare, use o modo normal do alicativo
+sem habilitar o modo <b>WARP</b><br>
+E para encriptar a conexão e Habilitar o IPv6, use com o modo <b>WARP</b> habilitado.
