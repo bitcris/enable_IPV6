@@ -4,6 +4,7 @@ Esse repositório é um pequeno tutorial sobre como ativar o protocolo IPv6 em d
 <b>PRIMEIRO VAMOS VERIFICAR SE A REDE EM QUE ESTAMOS CONECTADOS TEM IPV6 HABILITADO E FUNCIONAL</b><br>
 Acesse: https://cafeware.vercel.app/myipv6
 <br>
-Verifique se a opção IPV6 está marcada como <b>"OK"</b><br>
-Caso contrário aparecerá <b>Unavaliable</b> e sua rede não tem IPv6 habilitado.
-
+Verifique se a opção IPV6 está marcada como <b>"OK"</b><br><br>
+Caso contrário aparecerá <b>"Unavaliable"</b> e possívelmente sua rede não tem IPv6 habilitado pelo provedor.
+<br><br>
+<b>PARA HABILITAR MANUALMENTE VAMOS BAIXAR O CLOUDFLARE WARP</b><br>
