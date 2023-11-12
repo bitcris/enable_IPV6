@@ -13,8 +13,9 @@ Acesse: https://1.1.1.1/
 
 Instale o aplicativo de acordo com o seu dispositivo/sistema <br>
 O aplicativo está atualmente disponível para: <br>
-<b>App Store</b>
-<b>Google Play</b>
-<b>MacOs</b>
-<b>Windows</b>
-<b>Linux</b>
+<b>App Store</b><br>
+<b>Google Play</b><br>
+<b>MacOs</b><br>
+<b>Windows</b><br>
+<b>Linux</b><br>
+<br>
