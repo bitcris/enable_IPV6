@@ -29,7 +29,7 @@ E para encriptar a conexão e Habilitar o IPv6, use com o modo <b>WARP</b> habil
 <br>
 
 <b>TESTANDO O IPv6</b>
-Para verificar se o IPv6 foi habilitado volte a acessar
+Para verificar se o IPv6 foi habilitado volte a acessar:<br>
 https://cafeware.vercel.app/myipv6
 <br>
 Verifique se a opção IPv6 aparece "OK"
