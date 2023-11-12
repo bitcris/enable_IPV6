@@ -26,3 +26,11 @@ e altera os servidores de DNS para os servidores da Cloudflare.
 Para alterar apenas o seu DNS padrão para o DNS da Cloudflare, use o modo normal do alicativo
 sem habilitar o modo <b>WARP</b><br>
 E para encriptar a conexão e Habilitar o IPv6, use com o modo <b>WARP</b> habilitado.
+<br>
+
+<b>TESTANDO O IPv6</b>
+Para verificar se o IPv6 foi habilitado volte a acessar
+https://cafeware.vercel.app/myipv6
+<br>
+Verifique se a opção IPv6 aparece "OK"
+<br>
