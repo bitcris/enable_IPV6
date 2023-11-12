@@ -34,3 +34,7 @@ https://cafeware.vercel.app/myipv6
 <br>
 Verifique se a opção IPv6 aparece "OK"
 <br>
+
+Usar o aplicativo com o modo WARP habilitado também irá passar todo o tráfego por um nó da Cloudflare, normalmente um sservidor mais próximo de sua localização.
+Para verificar isso, você pode acessar https://cafeware.vercel.app <br>
+e ver onde este servidor se encontra.
